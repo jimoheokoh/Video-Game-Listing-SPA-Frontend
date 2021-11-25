@@ -5,7 +5,7 @@ Vue JS
 
 ## Description
 A Vue JS SPA Frontend for interaction with the ConnectNow Demo endpoint
-Application is available here -- [Demo](https://vglspa.ews.ng)
+Application is available here -- [Demo](https://vgfvdemo.firebaseapp.com/)
 
 ## Project setup
 ```

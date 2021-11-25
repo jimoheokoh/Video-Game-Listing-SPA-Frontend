@@ -55,7 +55,7 @@
                                 </v-select>
                             </v-col>
                             <v-col cols="12" sm="3" md="12">
-                                <div class="text-right d-none d-sm-flex">
+                                <div class="float-right d-none d-sm-flex pt-5">
                                     <v-btn
                                     color="primary"
                                     @click="resetForm">

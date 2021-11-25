@@ -28,4 +28,11 @@ body, .theme--light.v-application{
     color: #c1d1e8  !important;
     font-family: "Mulish", Helvetica, Arial;  
 }
+
+form{
+    color: #ffffff !important;
+}
+form input{
+    color: #c1d1e8  !important;
+}
 </style>

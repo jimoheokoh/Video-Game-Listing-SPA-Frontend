@@ -1,4 +1,4 @@
-# Vidoe Game Listing SPA Frontend
+# Video Game Listing SPA Frontend
 
 ## Language and Framework
 Vue JS

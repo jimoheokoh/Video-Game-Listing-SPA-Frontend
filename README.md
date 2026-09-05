@@ -21,3 +21,6 @@ npm run serve
 ```
 npm run build
 ```
+
+
+<!-- Security scan triggered at 2026-09-05 07:43:16 -->
